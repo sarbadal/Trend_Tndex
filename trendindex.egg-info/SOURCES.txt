@@ -1,0 +1,15 @@
+setup.py
+trendindex/__init__.py
+trendindex/error_check.py
+trendindex/linreg_fun.py
+trendindex/ma_fun.py
+trendindex/sindex_fun.py
+trendindex/trend_fun.py
+trendindex/trndindex_fun.py
+trendindex/zover_all.py
+trendindex.egg-info/PKG-INFO
+trendindex.egg-info/SOURCES.txt
+trendindex.egg-info/dependency_links.txt
+trendindex.egg-info/not-zip-safe
+trendindex.egg-info/requires.txt
+trendindex.egg-info/top_level.txt
